@@ -17,10 +17,7 @@ import { useEffect } from "react";
 export default function Reservations () {
   //localStorage.getItem(‘Key’)
   // localStorage.removeItem(‘name’)
-  useEffect(() => {
-    const list = JSON.parse(String(localStorage.getItem("cart"))) || [];
-
-  }, []);
+  localStorage.getItem('cart')
  return( <Box
     maxW={{ base: '3xl', lg: '7xl' }}
     mx="auto"
