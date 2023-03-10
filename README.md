@@ -7,23 +7,7 @@
 <br/>
 <br/>
 
-## 🕹️ **프로젝트 실행 방법**
 
-```
-git clone https://github.com/wanted-pre-onboarding-internship-team-6/pre-onboarding-9th-2-6.git
-cd pre-onboarding-9th-2-6
-npm install
-npm start
-```
-<br/>
-<br/>
-
-## 🔗 배포 링크
-
-[https://todolist-best-practice-two.vercel.app/](https://todolist-best-practice-two.vercel.app/)
-
-<br/>
-<br/>
 
 # 🛠️ 기술 스택
 ![CRA](https://img.shields.io/badge/CRA-09D3AC?style=for-the-badge&logo=React)
@@ -91,14 +75,6 @@ npm start
 <br/>
 <br/>
 
-## 📈 Best Practice Process
-
-1. 프로젝트의 전반적인 이해와 모범사례 도출을 위해 각자 요구사항 전체를 구현해보는 시간을 가졌습니다.
-2. 구현해본 경험을 바탕으로 구현시 고민했던 사항들에 대해 토론하며 UI, 컨벤션, 구조 등 각 항목의 모범 사례를 선정했습니다.
-3. 선정 사항을 기반으로 프로젝트 초기 셋팅을 마치고, 둘로 나뉘는 주요 기능에 따라 두 팀으로 나뉘어 라이브 쉐어 기능을 활용해 페어프로그래밍을 수행했습니다.
-
-<br/>
-<br/>
 
 ## 🚀 요구사항
 
@@ -120,34 +96,3 @@ npm start
 
 <br/>
 <br/>
-
-## 🤝🏼 **협업 방법 & 협업 툴**
-
-- 공지사항 및 일반 채팅: `discord`
-- 페어 프로그래밍: `live share`
-- 워크플로우
-    - 각 팀이 수행해야 하는 일을 이슈로 만들어 발행
-    - 이슈에 따르는 브랜치를 만들어 작업 (feature/#이슈번호)
-    - 커밋 컨벤션을 준수해 커밋한 뒤 오리진에 푸쉬
-    - 업스트림의 develop에 풀 리퀘스트 및 머지
-
-<br/>
-<br/>
-
-# 🎉 팀원 소개
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/ggongjukim"><img src="https://avatars.githubusercontent.com/u/75241542?v=4" width="100px;" alt=""/><br /><sub><b>김채현</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/dong-geon-Lee"><img src="https://avatars.githubusercontent.com/u/71866185?v=4" width="100px;" alt=""/><br /><sub><b>이동건</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/bymine"><img src="https://avatars.githubusercontent.com/u/71866185?v=4" width="100px;" alt=""/><br /><sub><b>박수빈</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Chun-gu"><img src="https://avatars.githubusercontent.com/u/60649092?v=4" width="100px;" alt=""/><br /><sub><b>이춘구</b></sub></a><br /></td>
-     <tr/>
-     <td align="center"><a href="https://github.com/pji0219"><img src="https://avatars.githubusercontent.com/u/66911726?v=4" width="100px;" alt=""/><br /><sub><b>박종익</b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/theo-jin"><img src="https://avatars.githubusercontent.com/u/83561523?v=4" width="100px;" alt=""/><br /><sub><b>진형빈</b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/dlwnstjrzz"><img src="https://avatars.githubusercontent.com/u/95525638?v=4" width="100px;" alt=""/><br /><sub><b>이준석</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Sungrinhan"><img src="https://avatars.githubusercontent.com/u/78065205?v=4" width="100px;" alt=""/><br /><sub><b>한성린</b></sub></a><br /></td>
-     </tr>
-  </tbody>
-</table>
